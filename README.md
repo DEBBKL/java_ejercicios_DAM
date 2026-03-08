@@ -1,47 +1,29 @@
-# Ejercicios y Prácticas de Programación en Java
+# Ejercicios y Prácticas de Java - DAM
 
-Este repositorio contiene una colección de **ejercicios y proyectos prácticos desarrollados en Java** como parte de mi proceso de aprendizaje en programación.
-
-Los ejemplos incluidos en este repositorio forman parte de mi formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y están orientados a reforzar los conceptos fundamentales del lenguaje **Java** y de la programación orientada a objetos.
+Este repositorio contiene los ejercicios y prácticas realizadas en el **ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM)**. Está organizado por unidades didácticas y temas, y tiene como objetivo documentar mi aprendizaje en **Java** y servir como referencia para futuros proyectos.
 
 ---
 
-## 📚 Contenidos del repositorio
+## 📂 Estructura del repositorio
 
-Los ejercicios desarrollados abarcan diferentes conceptos fundamentales de la programación, entre ellos:
-
-- **Programación Orientada a Objetos (POO)**
-- **Clases y objetos**
-- **Constructores y sobrecarga de métodos**
-- **Manipulación de Strings**
-- **Estructuras de control** (`if`, `for`, `while`)
-- **Métodos y encapsulación**
-
-Cada ejercicio está diseñado para practicar y comprender mejor la lógica de programación y la estructura del lenguaje Java.
+Cada carpeta corresponde a una unidad o tema:
 
 ---
 
-## 🎯 Objetivo del repositorio
+## 📝 Contenidos principales
 
-El objetivo principal de este repositorio es:
-
-- Documentar mi progreso en el aprendizaje de **Java**
-- Organizar los ejercicios realizados durante mi formación
-- Servir como referencia para futuros proyectos de desarrollo de software
-- Mostrar ejemplos prácticos de conceptos básicos de programación
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **Java**
-- **Eclipse IDE**
-- **Git**
-- **GitHub**
+- **Programación Orientada a Objetos (POO)**: clases, objetos, herencia, encapsulación  
+- **Estructuras de control**: `if`, `for`, `while`, `switch`  
+- **Arrays y colecciones**: manejo de datos, iteradores, List, Map  
+- **Manipulación de Strings**: concatenación, búsqueda, split, replace  
+- **Métodos**: sobrecarga, recursividad, parámetros  
+- **Proyectos prácticos**: combinación de los conceptos anteriores en ejercicios completos  
 
 ---
 
-## 👩‍💻 Autor
+## 🛠️ Herramientas utilizadas
 
-**Déborah Loisel**  
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- **Java 17** (o la versión que uses en Eclipse)  
+- **Eclipse IDE for Java and Web Developers**  
+- **Git + GitHub** para control de versiones  
+- **Windows 10/11** como sistema operativo  
