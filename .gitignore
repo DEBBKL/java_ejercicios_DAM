@@ -1,56 +1,10 @@
-# =========================
-# Java
-# =========================
-.metadata/
-# Archivos compilados
-*.class
-
-# Logs
-*.log
-
-# Archivos comprimidos
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# JVM crash logs
-hs_err_pid*
-
-# =========================
 # Eclipse
-# =========================
-
-# Archivos de configuración de Eclipse
-.classpath
-.project
-.settings/
-
-# Carpeta de compilación
+.metadata/
 bin/
+.settings/
+.project
+.classpath
 
-# Configuraciones locales
-.metadata
-tmp/
-*.tmp
-*.bak
-*.swp
-*~
-
-# External tool builders
-.externalToolBuilders/
-
-# Launch configurations
-*.launch
-
-# =========================
-# Sistema operativo
-# =========================
-
-# Mac
-.DS_Store
-
-# Windows
-Thumbs.db
+# Logs y temporales
+*.log
+*.class
